@@ -478,7 +478,6 @@ body {
 
 @media (max-width: 350px){
 
-
     .top-banner-word{
         padding-top: 5px;
     }
@@ -511,7 +510,7 @@ body {
     }
 
     #backup-btn{
-        top: 45px;
+        top: 50px;
     }
 }
 
