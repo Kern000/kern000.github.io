@@ -482,15 +482,14 @@ body {
     
     #map-container{
 
-    height: 75vh;
+    height: 70vh;
     }
 
     #map1{
-    height: 75vh;
+    height: 70vh;
     
     }
-
-    
+   
     #btm-bar{
         display: none;
     }
