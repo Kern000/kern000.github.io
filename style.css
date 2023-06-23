@@ -107,9 +107,6 @@ body {
     position: relative;
 }
 
-
-
-
 #search-results {
 
     position: absolute;
@@ -485,7 +482,7 @@ body {
 @media (max-width: 350px){
 
     .top-banner-word{
-        padding-top: 5px;
+        padding-top: 3px;
     }
 
     #map-container{
