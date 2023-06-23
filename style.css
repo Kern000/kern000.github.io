@@ -477,7 +477,11 @@ body {
 }
 
 @media (max-width: 350px){
-    
+
+    body {
+        height: 90vh;
+    }
+
     #map-container{
 
     height: 85vh;
