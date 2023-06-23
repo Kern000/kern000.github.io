@@ -479,7 +479,7 @@ body {
 @media (max-width: 350px){
 
     body {
-        height: 90vh;
+        height: 80vh;
     }
 
     #map-container{
