@@ -167,6 +167,11 @@ body {
 
 .legend{
     margin-left: 10px;
+    padding-bottom: 0px;
+}
+
+.btm-banner-word{
+    padding-bottom: 1px;
 }
 
 #geolocate-btn {
@@ -460,6 +465,7 @@ body {
         height: 3vh;
         font-size: 8px;
         margin-left: 3px;
+        
     }
 
     #btm-bar{
