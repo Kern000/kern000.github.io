@@ -4,7 +4,8 @@ body {
     border: 0px;
     margin: 0px;
     padding: 0px;
-    max-height: 100vh;
+    height: 100vh;
+    overflow-wrap: ;
     
 }
 
@@ -67,7 +68,7 @@ body {
 
 #map-container{
 
-    height: 85vh;
+    height: 89vh;
     display: flex;
     flex-direction: column;
     justify-content: top;
@@ -286,7 +287,7 @@ body {
 
 #map1 {
 
-    height: 85vh;
+    height: 89vh;
     width: auto;
     border: 0px;
     margin: 0px;
